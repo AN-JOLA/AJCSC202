@@ -1,0 +1,13 @@
+{
+  "name": "es6-primer",
+  "version": "0.0.1",
+  "description": "EcmaScript 6+ Primer for class work ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AJ Olowokere",
+  "license": "MIT",
+  "type": "module"
+
+}
