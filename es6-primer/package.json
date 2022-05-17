@@ -8,6 +8,8 @@
   },
   "author": "AJ Olowokere",
   "license": "MIT",
-  "type": "module"
-
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.4"
+  }
 }
