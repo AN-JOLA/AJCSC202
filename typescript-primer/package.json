@@ -1,0 +1,19 @@
+{
+  "name": "typescript-primer",
+  "version": "0.0.1",
+  "description": "TypeScript Primer ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc" 
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "AJ OLOWOKERE",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.35",
+    "typescript": "^4.6.4"
+  }
+}
